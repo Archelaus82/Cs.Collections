@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cs.Collections
+namespace Collections
 {
     public class Line2
     {
