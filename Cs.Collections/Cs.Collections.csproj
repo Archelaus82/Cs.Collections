@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Extensions.cs" />
     <Compile Include="Line2.cs" />
     <Compile Include="Observable\DictionaryObservable.cs" />
     <Compile Include="Observable\QueueObservable.cs" />
